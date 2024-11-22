@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Patra</h1>
-<h3 align="center">A Experienced Software Test Engineer from India</h3>
+<h3 align="center">An Experienced Software Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpadhy2580&label=Profile%20views&color=0e75b6&style=flat" alt="akashpadhy2580" /> </p>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **API Automation Testing , Selenium , Automation Frameworks**
 
-- 📝 Knowledge of generating Test Deliverables using [TestNG , Extent Reports](TestNG , Extent Reports, Allure Report)
+- 📝 Knowledge of generating Test Deliverables using (TestNG , Extent Reports, Allure Report,Browserstack)
 
 - 📫 How to reach me **rajeshpatra178@gmail.com**
 
