@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **API Automation Testing , Selenium , Automation Frameworks**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Iamrajesh007)
-
 - 📝 Knowledge of generating Test Deliverables using [TestNG , Extent Reports](TestNG , Extent Reports, Allure Report)
 
 - 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/iamrajeshpatra)
